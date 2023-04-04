@@ -1,0 +1,23 @@
+              <li>
+                <img src="img/slides/2.jpg" alt="" />
+				<div class="container">
+				<div class="row">
+				<div class="col-md-12">
+                <div class="flex-caption">
+                    <h3>GPT-powered solution</h3>
+					<p>.</p>
+                </div>
+				</div></div></div>
+              </li>
+
+              <li>
+                <img src="img/slides/3.jpg" alt="" />
+				<div class="container">
+				<div class="row">
+				<div class="col-md-12">
+                <div class="flex-caption">
+                    <h3>Marketing</h3>
+					<p>Lorem ipsum dolor sitamet, cnsscing <br>elit donec mer lacinia.</p>
+                </div>
+				</div></div></div>
+              </li>
